@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CV Builder</string>
+    <string name="cv_builder">CV Builder</string>
+    <string name="edit_cv">Edit CV</string>
+    <string name="search_worker">Search Worker</string>
+    <string name="please_verify_your_authentication">Please Verify Your Authentication</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="verify">Verify</string>
+</resources>
